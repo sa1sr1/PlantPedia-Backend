@@ -48,7 +48,7 @@ The captured frame is analyzed to identify the plant type, retrieve relevant inf
 - Snap AR Spectacles with the Interaction Kit installed.
 - Python 3.8+ (for backend setup).
 
-# Set Up the Backend
+### Set Up the Backend
 (Optional) Set up a virtual environment
 
 macOS:
@@ -61,6 +61,6 @@ Windows:
 python -m venv venv
 venv\Scripts\activate
 
-Install the required Python packages:
+### Install the required Python packages:
 
 pip install -r requirements.txt
