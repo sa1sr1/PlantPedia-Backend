@@ -3,5 +3,8 @@ PlantPedia
 Source Code: https://github.com/Serrindipity/PlantPedia
 
 Common houseplant demo:
-https://github.com/user-attachments/assets/1cf9a4e6-6ac4-4be6-a414-1c2478ba2940
+
+
+
+<video src='https://github.com/user-attachments/assets/d4ad335c-69ce-419f-becb-67b9b6b45c77' width=180/>
 
